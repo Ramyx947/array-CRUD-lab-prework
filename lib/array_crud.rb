@@ -1,6 +1,6 @@
 def create_an_empty_array
 my_new_array=[]
-puts create_an_empty_array
+return my_new_array
 end
 
 def create_an_array
