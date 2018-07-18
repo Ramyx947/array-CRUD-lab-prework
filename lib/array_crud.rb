@@ -33,5 +33,4 @@ end
 
 def retrieve_last_element_from_array(array)
   array.index["-1"]
-  puts array
 end
