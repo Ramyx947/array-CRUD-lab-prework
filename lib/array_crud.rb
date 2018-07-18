@@ -31,7 +31,7 @@ def retrieve_first_element_from_array(array)
   array[0]
 end
 
-def retrieve_last_element_from_array(array, index_number)
+def retrieve_last_element_from_array(array)
   array.index["n"]
   puts retrieve_last_element_from_array
 end
